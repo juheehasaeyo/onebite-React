@@ -1,5 +1,5 @@
 # onebite-react
-한입 크기로 잘라먹는 리액트(React.js) : 기초부터 실전까지 
+[한입 크기로 잘라먹는 리액트(React.js) : 기초부터 실전까지] 완강🎈
 
 <h2> ✨ Todolist의 CRUD </h2>
 
